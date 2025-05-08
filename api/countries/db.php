@@ -1,9 +1,9 @@
 <?php
 
 $host = "sql3.freesqldatabase.com:3306";
-$dbname = "sql3777600"
-$username = "sql3777600"
-$password = "ZJeg2lEFBTZ"
+$dbname = "sql3777600";
+$username = "sql3777600";
+$password = "ZJeg2lEFBTZ";
 
 
 
