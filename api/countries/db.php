@@ -1,6 +1,6 @@
 <?php
 
-$host = "fdb1028.awardspace.net";
+$host = "fdb1028.awardspace.net:3306";
 $dbname = "4633613_api1";
 $username = "4633613_api1";
 $password = "5XW@12aa34";
