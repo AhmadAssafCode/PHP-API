@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql3.freesqldatabase.com:3306";
-$dbname = "sql3777600";
-$username = "sql3777600";
-$password = "Jeg2lEFBTZ";
+$host = "fdb1028.awardspace.net";
+$dbname = "4633613_api1";
+$username = "4633613_api1";
+$password = "5XW@12aa34";
 
 
 
@@ -16,4 +16,3 @@ try {
     echo "Connection failed: " . $e->getMessage();
     exit;
 }
-?>
